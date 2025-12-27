@@ -1,0 +1,38 @@
+# --- Virtual Environment ---
+venv/
+env/
+.env
+.venv/
+
+# --- Vector Database (Crucial!) ---
+# Replace with your actual folder names
+final_books_db/
+my_book_vectordb/
+book_db_final_version/
+chroma_db/
+
+# --- API Keys & Secrets ---
+.env
+keys.txt
+config.json
+
+# --- Python System Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# --- Large Data Files (Optional) ---
+# If your raw CSV is over 100MB, ignore it too
+*.csv
+# If you want to keep the CSV but ignore logs
+*.log
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+.books_fully_classified.csv
+.book_cleaned.csv
+.tagged_descriptions.text
+# books_with_embeddings.csv
