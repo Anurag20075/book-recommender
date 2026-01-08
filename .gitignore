@@ -32,7 +32,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-.books_fully_classified.csv
+# .books_fully_classified.csv
 .book_cleaned.csv
-.tagged_descriptions.text
+# .tagged_descriptions.text
 # books_with_embeddings.csv
