@@ -34,5 +34,8 @@ Thumbs.db
 
 # .books_fully_classified.csv
 .book_cleaned.csv
+.books_with_embeddings.csv
 # .tagged_descriptions.text
 # books_with_embeddings.csv
+
+# checkmodelfile.py
